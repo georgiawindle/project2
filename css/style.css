@@ -1,0 +1,71 @@
+body {
+	font-family: 'Titillium Web', sans-serif;
+  	font-size: 20px;
+  	color: #1C1F4D;
+
+}
+header{
+ 
+ background-color: #1DAC52;
+  width: 100%;
+  text-align: center;
+  margin-top: 60px;
+}
+footer{
+ 
+ background-color: #1C1F4D;
+  width: 100%;
+  text-align: center;
+  color: #ffffff;
+}
+
+h1{
+	font-family: 'Courier Prime', monospace;
+	font-size: 50px;
+	color: #ffffff;
+
+}
+h2{
+	font-family: 'Courier Prime', monospace;
+	font-size: 40px;
+	color: #1DAC52;
+  text-align: center;
+}
+
+h3{
+  font-family: 'Courier Prime', monospace;
+  font-size: 25px;
+  color: #1C1F4D;
+  text-align: left;
+}
+
+section{
+	background-color: #ffffff;
+	text-align: left;
+  width:60%;
+
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #1C1F4D;
+  position: fixed;
+  top: 0;
+  width: 99.1%;
+
+}
+
+.navbar a {
+  float: left;
+ font-family: 'Titillium Web', sans-serif;
+  color: #ffffff;
+  text-align: center;
+  padding: 15px 10%;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  color: #1DAC52;
+}
+
